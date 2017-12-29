@@ -1,4 +1,4 @@
-Vue.component("guojinling",{
+Vue.component("custom",{
     template:`<div class="box">
         <input type="text" placeholder="请输入事项" v-model="con" @keyup.13="add">
         <div class="btns">
