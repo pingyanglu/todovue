@@ -4,15 +4,15 @@ new Vue({
         datas:[
             {
                 id:1,
-                title:"11111",
+                title:"AAA",
             },
             {
                 id:2,
-                title:"1112211",
+                title:"BBBB",
             },
             {
                 id:3,
-                title:"1113311",
+                title:"CCCCC",
             },
         ],
         title:"",
